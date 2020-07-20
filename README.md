@@ -1,12 +1,15 @@
 # Luiz Barbosa
 
+### SwiftRex
 Creator and maintainer of SwiftRex, a reactive unidirectional dataflow framework written in Swift and compatible with Combine, RxSwift and ReactiveSwift.
 
-https://github.com/SwiftRex/SwiftRex
+<a href="https://github.com/SwiftRex/SwiftRex"><img src="https://github.com/favicon.ico" alt="SwiftRex GitHub" height=16 /> https://github.com/SwiftRex/SwiftRex</a>
 
-Senior iOS Engineer @ Lautsprecher Teufel GmbH (https://www.teufel.de)
+---
 
-https://github.com/teufelaudio/
+### Senior iOS Engineer @ Lautsprecher Teufel GmbH <img src="https://teufel.de/favicon.ico" alt="Teufel Website" height=16 /> (https://www.teufel.de)
+
+<a href="https://github.com/teufelaudio/"><img src="https://github.com/favicon.ico" alt="Teufel GitHub" height=16 /> https://github.com/teufelaudio/</a>
 
 ---
 
