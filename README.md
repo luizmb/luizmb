@@ -1,16 +1,38 @@
-### Hi there 👋
+# Luiz Barbosa
 
-<!--
-**luizmb/luizmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior iOS Engineer @ Lautsprecher Teufel GmbH (https://www.teufel.de)
 
-Here are some ideas to get you started:
+https://github.com/teufelaudio/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Creator and maintainer of SwiftRex, a reactive unidirectional dataflow framework written in Swift and compatible with Combine, RxSwift and ReactiveSwift.
+
+https://github.com/SwiftRex/SwiftRex
+
+---
+
+### Things that make me happy:
+
+| 🤓 | Things that make me happy |
+| :---: | ---- |
+| 𝝺→ | Functional Programming |
+| ✅ | TDD and Unit Testing |
+| <img src="https://swift.org/favicon.ico" alt="Twitter" height=24 /> | Swift |
+| 🚀 | Math, Physics, astronomy and rocket science |
+| 🐕 | Family, friends and my dogs |
+| 📷🎥 | Photography and videography |
+| <img src="https://apple.com/favicon.ico" alt="Apple" height=24 /> | Apple gadgets :) |
+| 🎸 | Music (metal, classical, jazz, folk, rock, funk, blues, pop) |
+| 📺 | TV Series |
+| 📖 | Fiction books |
+| 📝 | Making lists |
+
+---
+
+### Say hi
+
+<a href="https://twitter.com/luizguitar/"><img src="https://twitter.com/favicon.ico" alt="Twitter" /> @luizguitar</a> | <a href="https://www.linkedin.com/in/luizmb/"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" /> @luizmb</a>
+
+(⛔️ not available for hiring)
+
+
+Made in Brazil 🇧🇷 -> 🇩🇪
