@@ -35,4 +35,4 @@ https://github.com/teufelaudio/
 (⛔️ not available for hiring)
 
 
-Made in Brazil 🇧🇷 -> 🇩🇪
+Made in Brazil, 1982 :: 🇧🇷 -> 🇩🇪
