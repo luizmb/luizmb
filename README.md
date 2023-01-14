@@ -53,7 +53,7 @@ Lead iOS Engineer @ <a href="https://www.teufel.de">Lautsprecher Teufel GmbH</a>
 
 ### Say hi
 
-<a href="https://twitter.com/luizguitar/"><img src="https://twitter.com/favicon.ico" alt="Twitter" />@luizguitar</a> | <a href="https://www.linkedin.com/in/luizmb/"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />@luizmb</a>
+<a href="https://twitter.com/luizguitar/"><img src="https://twitter.com/favicon.ico" alt="Twitter" />@luizguitar</a> | <a href="https://www.linkedin.com/in/luizmb/"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />@luizmb</a> | <a rel="me" href="https://functional.cafe/@luiz">Mastodon</a>
 
 
 
