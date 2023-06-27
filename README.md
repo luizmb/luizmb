@@ -26,9 +26,10 @@ Lead iOS Engineer at Huma Therapeutics (London/🇬🇧)
 
 #### Previously
 
-Software Engineering Manager @ <a href="https://www.deliveryhero.com">Delivery Hero</a> (Berlin/🇩🇪) <img src="https://www.deliveryhero.com/favicon.ico" alt="Delivery Hero Website" height=16 />
+Software Engineering Manager @ <a href="https://www.deliveryhero.com">Delivery Hero</a> <img src="https://www.deliveryhero.com/favicon.ico" alt="Delivery Hero Website" height=16 /> (Berlin/🇩🇪)
 
-Lead iOS Engineer @ <a href="https://www.teufel.de">Lautsprecher Teufel GmbH</a> (Berlin/🇩🇪) <img src="https://teufel.de/favicon.ico" alt="Teufel Website" height=16 />
+Lead iOS Engineer @ <a href="https://www.teufel.de">Lautsprecher Teufel GmbH</a> <img src="https://teufel.de/favicon.ico" alt="Teufel Website" height=16 /> (Berlin/🇩🇪)
+
 <a href="https://github.com/teufelaudio/"><img src="https://github.com/favicon.ico" alt="Teufel GitHub" height=16 />https://github.com/teufelaudio/</a>
 
 ---
