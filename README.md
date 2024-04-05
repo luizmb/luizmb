@@ -22,15 +22,17 @@ Creator of several Combine libraries:
 
 ### Career
 #### Current 
-Lead iOS Engineer at Huma Therapeutics (London/🇬🇧)
+
+- Senior iOS Engineer @ <a href="https://withplum.com">Plum FinTech</a> <img src="https://withplum.com/favicon.png" alt="Plum FinTech" height=16 /> (London/🇬🇧)
 
 #### Previously
 
-Software Engineering Manager @ <a href="https://www.deliveryhero.com">Delivery Hero</a> <img src="https://www.deliveryhero.com/favicon.ico" alt="Delivery Hero Website" height=16 /> (Berlin/🇩🇪)
+- Lead iOS Engineer @ Huma Therapeutics (London/🇬🇧)
 
-Lead iOS Engineer @ <a href="https://www.teufel.de">Lautsprecher Teufel GmbH</a> <img src="https://teufel.de/favicon.ico" alt="Teufel Website" height=16 /> (Berlin/🇩🇪)
+- Software Engineering Manager @ <a href="https://www.deliveryhero.com">Delivery Hero</a> <img src="https://www.deliveryhero.com/favicon.ico" alt="Delivery Hero Website" height=16 /> (Berlin/🇩🇪)
 
-<a href="https://github.com/teufelaudio/"><img src="https://github.com/favicon.ico" alt="Teufel GitHub" height=16 />https://github.com/teufelaudio/</a>
+- Senior iOS Engineer @ <a href="https://www.teufel.de">Lautsprecher Teufel GmbH</a> <img src="https://teufel.de/favicon.ico" alt="Teufel Website" height=16 /> (Berlin/🇩🇪)
+  - <a href="https://github.com/teufelaudio/"><img src="https://github.com/favicon.ico" alt="Teufel GitHub" height=16 />https://github.com/teufelaudio/</a>
 
 ---
 
@@ -41,7 +43,7 @@ Lead iOS Engineer @ <a href="https://www.teufel.de">Lautsprecher Teufel GmbH</a>
 | 𝝺→ | Functional Programming |
 | ✅ | TDD and Unit Testing |
 | 👥 | Pair Programming |
-| <img src="https://swift.org/favicon.ico" alt="Swift" height=24 /> | Swift |
+| <img src="https://swift.org/favicon.ico" alt="Swift" height=24 /> | Swift (and Rust, Haskell, Scala and F#) |
 | 🚀 | Math, Physics, astronomy and rocket science |
 | 🐕 | Family, friends and my dog Summer |
 | 📷🎥 | Photography |
@@ -55,7 +57,7 @@ Lead iOS Engineer @ <a href="https://www.teufel.de">Lautsprecher Teufel GmbH</a>
 
 ### Say hi
 
-<a href="https://twitter.com/luizguitar/"><img src="https://twitter.com/favicon.ico" alt="Twitter" />@luizguitar</a> | <a href="https://www.linkedin.com/in/luizmb/"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />@luizmb</a> | <a rel="me" href="https://functional.cafe/@luiz">Mastodon</a>
+<a href="https://www.instagram.com/luiz.ios"><img src="https://www.instagram.com/favicon.ico" alt="Instagram" />@luiz.ios</a> | <a href="https://www.linkedin.com/in/luizmb/"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />@luizmb</a> | <a rel="me" href="https://functional.cafe/@luiz">Mastodon</a>
 
 
 
