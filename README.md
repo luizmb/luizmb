@@ -23,15 +23,15 @@ Creator of several Combine libraries:
 ### Career
 #### Current 
 
-- Senior iOS Engineer @ <img src="https://withplum.com/favicon.png" alt="Plum FinTech" height=16 style="vertical-align: middle; filter: invert(1); filter: drop-shadow(2px 2px 2px white);" />&emsp; <a href="https://withplum.com">Plum FinTech</a> (London/🇬🇧)
+- Senior iOS Engineer @ <img src="https://withplum.com/favicon.png" alt="Plum FinTech" height=16 style="display: block; mix-blend-mode: multiply;" /> <a href="https://withplum.com">Plum FinTech</a> (London/🇬🇧)
 
 #### Previously
 
 - Lead iOS Engineer @ Huma Therapeutics (London/🇬🇧)
 
-- Software Engineering Manager @ <img src="https://www.deliveryhero.com/favicon.ico" alt="Delivery Hero Website" height=16 style="vertical-align: middle; filter: invert(1); filter: drop-shadow(2px 2px 2px white);" />&emsp; <a href="https://www.deliveryhero.com">Delivery Hero</a> (Berlin/🇩🇪)
+- Software Engineering Manager @ <img src="https://www.deliveryhero.com/favicon.ico" alt="Delivery Hero Website" height=16 style="vertical-align: middle; filter: invert(1); filter: drop-shadow(2px 2px 2px white);" /> <a href="https://www.deliveryhero.com">Delivery Hero</a> (Berlin/🇩🇪)
 
-- Senior iOS Engineer @ <img src="https://teufel.de/favicon.ico" alt="Teufel Website" height=16 style="vertical-align: middle; filter: invert(1); filter: drop-shadow(2px 2px 2px white);" />&emsp; <a href="https://www.teufel.de">Lautsprecher Teufel GmbH</a> (Berlin/🇩🇪)
+- Senior iOS Engineer @ <img src="https://teufel.de/favicon.ico" alt="Teufel Website" height=16 style="vertical-align: middle; filter: invert(1); filter: drop-shadow(2px 2px 2px white);" /> <a href="https://www.teufel.de">Lautsprecher Teufel GmbH</a> (Berlin/🇩🇪)
   - <a href="https://github.com/teufelaudio/"><img src="https://github.com/favicon.ico" alt="Teufel GitHub" height=16 style="vertical-align: middle; filter: invert(1); filter: drop-shadow(2px 2px 2px white);" />https://github.com/teufelaudio/</a>
 
 ---
@@ -57,10 +57,10 @@ Creator of several Combine libraries:
 
 ### Say hi
 
-- <a href="https://t.me/luiz_ios"><img src="https://t.me/favicon.ico" alt="Telegram" height=16 />&emsp; @luiz_ios</a>
-- <a href="https://www.instagram.com/luiz.ios"><img src="https://www.instagram.com/favicon.ico" alt="Instagram" height=16 />&emsp; @luiz.ios</a>
-- <a href="https://www.linkedin.com/in/luizmb/"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" height=16 />&emsp; @luizmb</a>
-- <a rel="me" href="https://functional.cafe/@luiz"><img src="https://functional.cafe/favicon.ico" alt="Mastodon" height=16 />&emsp; functional.cafe/@luiz</a>
+- <a href="https://t.me/luiz_ios"><img src="https://t.me/favicon.ico" alt="Telegram" height=16 /> @luiz_ios</a>
+- <a href="https://www.instagram.com/luiz.ios"><img src="https://www.instagram.com/favicon.ico" alt="Instagram" height=16 /> @luiz.ios</a>
+- <a href="https://www.linkedin.com/in/luizmb/"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" height=16 /> @luizmb</a>
+- <a rel="me" href="https://functional.cafe/@luiz"><img src="https://functional.cafe/favicon.ico" alt="Mastodon" height=16 /> functional.cafe/@luiz</a>
 
 
 Made in Brazil, 1982 :: 🇧🇷 -> 🇩🇪 -> 🇬🇧
