@@ -55,7 +55,13 @@ Creator of several Combine libraries:
 ### Career
 #### Current 
 
-- Senior iOS Engineer @ <img src="https://withplum.com/favicon.png" alt="Plum FinTech" height=16 style="display: block; mix-blend-mode: multiply;" /> <a href="https://withplum.com">Plum FinTech</a> (London/🇬🇧)
+<ul>
+  <li>
+    Senior iOS Engineer @ 
+    <a href="https://withplum.com"><img src="plum-logo-light.svg" alt="Plum FinTech Website" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://withplum.com">Plum FinTech</a> (London/🇬🇧)</a>
+  </li>
+</ul>
 
 #### Previously
 
