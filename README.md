@@ -13,13 +13,42 @@ Creator and maintainer of SwiftRex, a reactive unidirectional dataflow framework
 ### Combine Publishers
 Creator of several Combine libraries:
 
-- <a href="https://github.com/luizmb/CombineWebSocket"><img src="https://github.com/favicon.ico" alt="CombineWebSocket GitHub" height=16 />https://github.com/luizmb/CombineWebSocket</a>
-- <a href="https://github.com/luizmb/CombineNFC"><img src="https://github.com/favicon.ico" alt="CombineNFC GitHub" height=16 />https://github.com/luizmb/CombineNFC</a>
-- <a href="https://github.com/teufelaudio/CombineBonjour"><img src="https://github.com/favicon.ico" alt="CombineBonjour GitHub" height=16 />https://github.com/teufelaudio/CombineBonjour</a>
-- <a href="https://github.com/teufelaudio/CombineWamp"><img src="https://github.com/favicon.ico" alt="CombineWamp GitHub" height=16 />https://github.com/teufelaudio/CombineWamp</a>
-- <a href="https://github.com/teufelaudio/CombineLongPolling"><img src="https://github.com/favicon.ico" alt="CombineLongPolling GitHub" height=16 />https://github.com/teufelaudio/CombineLongPolling</a>
-- <a href="https://github.com/teufelaudio/CombineBluetooth"><img src="https://github.com/favicon.ico" alt="CombineBluetooth GitHub" height=16 />https://github.com/teufelaudio/CombineBluetooth</a>
-- <a href="https://github.com/teufelaudio/CombineExternalAccessory"><img src="https://github.com/favicon.ico" alt="CombineExternalAccessory GitHub" height=16 />https://github.com/teufelaudio/CombineExternalAccessory</a>
+<ul>
+  <li>
+    <a href="https://github.com/teufelaudio/CombineBluetooth"><img src="github-mark-white.png" alt="CombineBluetooth GitHub" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://github.com/teufelaudio/CombineBluetooth">https://github.com/teufelaudio/CombineBluetooth</a>
+  </li>
+
+  <li>
+    <a href="https://github.com/luizmb/CombineWebSocket"><img src="github-mark-white.png" alt="CombineWebSocket GitHub" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://github.com/luizmb/CombineWebSocket">https://github.com/luizmb/CombineWebSocket</a>
+  </li>
+
+  <li>
+    <a href="https://github.com/teufelaudio/CombineWamp"><img src="github-mark-white.png" alt="CombineWamp GitHub" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://github.com/teufelaudio/CombineWamp">https://github.com/teufelaudio/CombineWamp</a>
+  </li>
+
+  <li>
+    <a href="https://github.com/teufelaudio/CombineBonjour"><img src="github-mark-white.png" alt="CombineBonjour GitHub" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://github.com/teufelaudio/CombineBonjour">https://github.com/teufelaudio/CombineBonjour</a>
+  </li>
+
+  <li>
+    <a href="https://github.com/teufelaudio/CombineLongPolling"><img src="github-mark-white.png" alt="CombineLongPolling GitHub" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://github.com/teufelaudio/CombineLongPolling">https://github.com/teufelaudio/CombineLongPolling</a>
+  </li>
+
+  <li>
+    <a href="https://github.com/teufelaudio/CombineExternalAccessory"><img src="github-mark-white.png" alt="CombineExternalAccessory GitHub" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://github.com/teufelaudio/CombineExternalAccessory">https://github.com/teufelaudio/CombineExternalAccessory</a>
+  </li>
+
+  <li>
+    <a href="https://github.com/luizmb/CombineNFC"><img src="github-mark-white.png" alt="CombineNFC GitHub" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://github.com/luizmb/CombineNFC">https://github.com/luizmb/CombineNFC</a>
+  </li>
+</ul>
 
 ---
 
