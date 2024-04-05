@@ -57,20 +57,33 @@ Creator of several Combine libraries:
 
 <ul>
   <li>
-    Senior iOS Engineer @ 
+    Senior iOS Engineer&ensp;@&ensp;
     <a href="https://withplum.com"><img src="plum-logo-light.svg" alt="Plum FinTech Website" height=24 valign="middle" /></a>&nbsp;
-    <a href="https://withplum.com">Plum FinTech</a> (London/🇬🇧)</a>
+    <a href="https://withplum.com">(London/🇬🇧)</a>
   </li>
 </ul>
 
 #### Previously
 
-- Lead iOS Engineer @ Huma Therapeutics (London/🇬🇧)
+<ul>
+  <li>
+    Lead iOS Engineer&ensp;@&ensp;
+    Huma Therapeutics (London/🇬🇧)
+  </li>
+  
+  <li>
+    Software Engineering Manager&ensp;@&ensp;
+    <a href="https://www.deliveryhero.com"><img src="dh.svg" alt="Delivery Hero Website" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://www.deliveryhero.com">(Berlin/🇩🇪)</a>
+  </li>
 
-- Software Engineering Manager @ <img src="https://www.deliveryhero.com/favicon.ico" alt="Delivery Hero Website" height=16 style="vertical-align: middle; filter: invert(1); filter: drop-shadow(2px 2px 2px white);" /> <a href="https://www.deliveryhero.com">Delivery Hero</a> (Berlin/🇩🇪)
+  <li>
+    Senior iOS Engineer&ensp;@&ensp;
+    <a href="https://teufel.de"><img src="https://teufel.de/favicon.ico" alt="Lautsprecher Teufel Website" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://teufel.de">(Berlin/🇩🇪)</a>
+  </li>
 
-- Senior iOS Engineer @ <img src="https://teufel.de/favicon.ico" alt="Teufel Website" height=16 style="vertical-align: middle; filter: invert(1); filter: drop-shadow(2px 2px 2px white);" /> <a href="https://www.teufel.de">Lautsprecher Teufel GmbH</a> (Berlin/🇩🇪)
-  - <a href="https://github.com/teufelaudio/"><img src="https://github.com/favicon.ico" alt="Teufel GitHub" height=16 style="vertical-align: middle; filter: invert(1); filter: drop-shadow(2px 2px 2px white);" />https://github.com/teufelaudio/</a>
+</ul>
 
 ---
 
