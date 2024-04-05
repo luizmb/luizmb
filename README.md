@@ -4,8 +4,8 @@
 Creator and maintainer of SwiftRex, a reactive unidirectional dataflow framework written in Swift and compatible with Combine, RxSwift and ReactiveSwift.
 
 <a href="https://github.com/SwiftRex/SwiftRex" valign="middle">
-  <img src="github-mark-white.png" alt="SwiftRex GitHub" valign="middle" height=24 />
-  <span valign="middle">https://github.com/SwiftRex/SwiftRex</span>
+  <img src="github-mark-white.png" alt="SwiftRex GitHub" height=24 />&nbsp;
+  https://github.com/SwiftRex/SwiftRex
 </a>
 
 ---
