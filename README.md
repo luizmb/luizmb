@@ -5,7 +5,7 @@ Creator and maintainer of SwiftRex, a reactive unidirectional dataflow framework
 
 <a href="https://github.com/SwiftRex/SwiftRex">
   <img src="github-mark-white.png" alt="SwiftRex GitHub" height=24 />&nbsp;
-  <span valign="middle">https://github.com/SwiftRex/SwiftRex</span>
+  <span height=24 valign="middle">https://github.com/SwiftRex/SwiftRex</span>
 </a>
 
 ---
