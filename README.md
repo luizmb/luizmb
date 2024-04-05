@@ -59,7 +59,7 @@ Creator of several Combine libraries:
   <li>
     Senior iOS Engineer&ensp;@&ensp;
     <a href="https://withplum.com"><img src="plum-logo-light.svg" alt="Plum FinTech Website" height=24 valign="middle" /></a>&nbsp;
-    <a href="https://withplum.com">(London/🇬🇧)</a>
+    (London/🇬🇧)
   </li>
 </ul>
 
@@ -74,13 +74,13 @@ Creator of several Combine libraries:
   <li>
     Software Engineering Manager&ensp;@&ensp;
     <a href="https://www.deliveryhero.com"><img src="dh.svg" alt="Delivery Hero Website" height=24 valign="middle" /></a>&nbsp;
-    <a href="https://www.deliveryhero.com">(Berlin/🇩🇪)</a>
+    (Berlin/🇩🇪)
   </li>
 
   <li>
     Senior iOS Engineer&ensp;@&ensp;
-    <a href="https://teufel.de"><img src="https://teufel.de/favicon.ico" alt="Lautsprecher Teufel Website" height=24 valign="middle" /></a>&nbsp;
-    <a href="https://teufel.de">(Berlin/🇩🇪)</a>
+    <a href="https://teufel.de"><img src="teufel.svg" alt="Lautsprecher Teufel Website" height=24 valign="middle" /></a>&nbsp;
+    (Berlin/🇩🇪)
   </li>
 
 </ul>
@@ -108,10 +108,26 @@ Creator of several Combine libraries:
 
 ### Say hi
 
-- <a href="https://t.me/luiz_ios"><img src="https://t.me/favicon.ico" alt="Telegram" height=16 /> @luiz_ios</a>
-- <a href="https://www.instagram.com/luiz.ios"><img src="https://www.instagram.com/favicon.ico" alt="Instagram" height=16 /> @luiz.ios</a>
-- <a href="https://www.linkedin.com/in/luizmb/"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" height=16 /> @luizmb</a>
-- <a rel="me" href="https://functional.cafe/@luiz"><img src="https://functional.cafe/favicon.ico" alt="Mastodon" height=16 /> functional.cafe/@luiz</a>
+<ul>
+  <li>
+    <a href="https://t.me/luiz_ios"><img src="https://t.me/favicon.ico" alt="Telegram" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://t.me/luiz_ios">@luiz_ios</a>
+  </li>
 
+  <li>
+    <a href="https://www.instagram.com/luiz.ios"><img src="https://www.instagram.com/favicon.ico" alt="Instagram" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://www.instagram.com/luiz.ios">@luiz.ios</a>
+  </li>
+
+  <li>
+    <a href="https://www.linkedin.com/in/luizmb"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/luizmb">@luizmb</a>
+  </li>
+
+  <li>
+    <a href="https://functional.cafe/@luiz"><img src="https://functional.cafe/favicon.ico" alt="Mastodon" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://functional.cafe/@luiz">functional.cafe/@luiz</a>
+  </li>
+</ul>
 
 Made in Brazil, 1982 :: 🇧🇷 -> 🇩🇪 -> 🇬🇧
