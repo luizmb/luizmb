@@ -23,7 +23,7 @@ Creator of several Combine libraries:
 ### Career
 #### Current 
 
-- Senior iOS Engineer @ <img src="https://withplum.com/favicon.png" alt="Plum FinTech" height=16 style="vertical-align:middle; filter: invert(1); filter: drop-shadow(3px 3px 3px white);" /> <a href="https://withplum.com">Plum FinTech</a> (London/🇬🇧)
+- Senior iOS Engineer @ <img src="https://withplum.com/favicon.png" alt="Plum FinTech" height=16 style="vertical-align: middle; filter: invert(1); filter: drop-shadow(2px 2px 2px white);" /> <a href="https://withplum.com">Plum FinTech</a> (London/🇬🇧)
 
 #### Previously
 
@@ -57,9 +57,10 @@ Creator of several Combine libraries:
 
 ### Say hi
 
-<a href="https://www.instagram.com/luiz.ios"><img src="https://www.instagram.com/favicon.ico" alt="Instagram" />@luiz.ios</a> | <a href="https://www.linkedin.com/in/luizmb/"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />@luizmb</a> | <a rel="me" href="https://functional.cafe/@luiz">Mastodon</a>
-
-
+- <a href="https://t.me/luiz_ios"<img src="https://t.me/favicon.ico" alt="Telegram" height=16 />@luiz_ios</a>
+- <a href="https://www.instagram.com/luiz.ios"><img src="https://www.instagram.com/favicon.ico" alt="Instagram" height=16 />@luiz.ios</a>
+- <a href="https://www.linkedin.com/in/luizmb/"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" height=16 />@luizmb</a>
+- <a rel="me" href="https://functional.cafe/@luiz"><img src="https://functional.cafe/favicon.ico" alt="Mastodon" height=16 /> functional.cafe/@luiz</a>
 
 
 Made in Brazil, 1982 :: 🇧🇷 -> 🇩🇪 -> 🇬🇧
