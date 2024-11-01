@@ -93,15 +93,15 @@ Creator of several Combine libraries:
 | :---: | ---- |
 | 𝝺→ | Functional Programming |
 | ✅ | TDD and Unit Testing |
-| 👥 | Pair Programming |
 | <img src="https://swift.org/favicon.ico" alt="Swift" height=24 /> | Swift (and Rust, Haskell, Scala and F#) |
 | 🚀 | Math, Physics, astronomy and rocket science |
-| 🐕 | Family, friends and my dog Summer |
-| 📷🎥 | Photography |
-| <img src="https://apple.com/favicon.ico" alt="Apple" height=24 /> | Apple gadgets :) |
+| 🐕 | Family, my dog Summer, friends |
+| 📷 | Photography |
+| 🏍️ | Motorcycles |
 | 🎸 | Music (metal, classical, jazz, folk, rock, funk, blues, pop) |
 | 📺 | TV Series |
 | 📖 | Fiction books (fantasy, sci-fi, historical fiction) |
+| <img src="https://apple.com/favicon.ico" alt="Apple" height=24 /> | Apple gadgets :) |
 | 📝 | Making lists |
 
 ---
