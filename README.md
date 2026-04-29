@@ -83,33 +83,18 @@ Creator of several Combine libraries:
 #### Current 
 
 <ul>
-  <li>
-    Senior iOS Engineer&ensp;@&ensp;
-    <a href="https://withplum.com"><img src="plum-logo-light.svg" alt="Plum FinTech Website" height=24 valign="middle" /></a>&nbsp;
-    (London/🇬🇧)
-  </li>
+  <li>Senior iOS Engineer @ Plum FinTech (London/🇬🇧)</li>
 </ul>
 
 #### Previously
 
 <ul>
-  <li>
-    Lead iOS Engineer&ensp;@&ensp;
-    Huma Therapeutics (London/🇬🇧)
-  </li>
-  
-  <li>
-    Software Engineering Manager&ensp;@&ensp;
-    <a href="https://www.deliveryhero.com"><img src="dh.svg" alt="Delivery Hero Website" height=24 valign="middle" /></a>&nbsp;
-    (Berlin/🇩🇪)
-  </li>
-
-  <li>
-    Senior iOS Engineer&ensp;@&ensp;
-    <a href="https://teufel.de"><img src="teufel.svg" alt="Lautsprecher Teufel Website" height=24 valign="middle" /></a>&nbsp;
-    (Berlin/🇩🇪)
-  </li>
-
+  <li>Lead iOS Engineer @ Huma Therapeutics (London/🇬🇧)</li>
+  <li>Software Engineering Manager @ Delivery Hero (Berlin/🇩🇪)</li>
+  <li>Senior iOS Engineer @ Lautsprecher Teufel (Berlin/🇩🇪)</li>
+  <li>Senior iOS Engineer @ eBay Kleinanzeigen (Berlin/🇩🇪)</li>
+  <li>Senior iOS Engineer @ HERE Maps (Berlin/🇩🇪)</li>
+  <li>And more: UUX/Agile (São Paulo/🇧🇷), Accentiv Mimética (São Paulo/🇧🇷), Liberty Seguros (São Paulo/🇧🇷), Agrisoft (São Paulo/🇧🇷)</li>
 </ul>
 
 ---
