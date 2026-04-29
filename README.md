@@ -10,6 +10,33 @@ Creator and maintainer of SwiftRex, a reactive unidirectional dataflow framework
 
 ---
 
+### Functional Programming and Math
+Creator of several Functional Programming and Math libraries:
+
+<ul>
+  <li>
+    <a href="https://github.com/luizmb/FP"><img src="github-mark-white.png" alt="FP GitHub" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://github.com/luizmb/FP">https://github.com/luizmb/FP</a>
+  </li>
+
+  <li>
+    <a href="https://github.com/luizmb/NetworkTools"><img src="github-mark-white.png" alt="NetworkTools GitHub" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://github.com/luizmb/NetworkTools">https://github.com/luizmb/NetworkTools</a>
+  </li>
+
+  <li>
+    <a href="https://github.com/luizmb/FunctionalParser"><img src="github-mark-white.png" alt="FunctionalParser GitHub" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://github.com/luizmb/FunctionalParser">https://github.com/luizmb/FunctionalParser</a>
+  </li>
+  
+  <li>
+    <a href="https://github.com/luizmb/RungeKutta"><img src="github-mark-white.png" alt="RungeKutta GitHub" height=24 valign="middle" /></a>&nbsp;
+    <a href="https://github.com/luizmb/RungeKutta">https://github.com/luizmb/RungeKutta</a>
+  </li>
+</ul>
+
+---
+
 ### Combine Publishers
 Creator of several Combine libraries:
 
@@ -110,23 +137,8 @@ Creator of several Combine libraries:
 
 <ul>
   <li>
-    <a href="https://t.me/luiz_ios"><img src="https://t.me/favicon.ico" alt="Telegram" height=24 valign="middle" /></a>&nbsp;
-    <a href="https://t.me/luiz_ios">@luiz_ios</a>
-  </li>
-
-  <li>
-    <a href="https://www.instagram.com/luiz.ios"><img src="https://www.instagram.com/favicon.ico" alt="Instagram" height=24 valign="middle" /></a>&nbsp;
-    <a href="https://www.instagram.com/luiz.ios">@luiz.ios</a>
-  </li>
-
-  <li>
     <a href="https://www.linkedin.com/in/luizmb"><img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" height=24 valign="middle" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/luizmb">@luizmb</a>
-  </li>
-
-  <li>
-    <a href="https://functional.cafe/@luiz"><img src="https://functional.cafe/favicon.ico" alt="Mastodon" height=24 valign="middle" /></a>&nbsp;
-    <a href="https://functional.cafe/@luiz">functional.cafe/@luiz</a>
   </li>
 </ul>
 
